@@ -12,9 +12,14 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 - 🌱 Saat ini saya sedang mendalami **pengembangan web** dan **pemrograman tingkat lanjut**.  
 - 💡 Saya suka mencoba teknologi baru dan membuat proyek sederhana untuk melatih logika serta kreativitas.  
 - 🎯 Tujuan saya adalah menjadi **Full-Stack Developer** yang handal dan berkontribusi di dunia teknologi.  
-- 📫 Cara menghubungi saya:  
-  [📷 Instagram](https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==) |  
-  [✉️ Email](mailto:muhammadrizalnurfirdaus@gmail.com)
+
+---
+
+### 📫 Cara Menghubungi Saya
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizalnurfirdaus@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rizal.nurfirdaus.7?mibextid=rS40aB7S9Ucbxw6v)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM)
 
 ---
 
@@ -32,11 +37,12 @@ Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
 ---
 
 ## 📊 Statistik GitHub Saya
-<p align="center">
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=radical" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=radical" alt="Top languages" height="165">
 </p>
+
 
 ---
 
