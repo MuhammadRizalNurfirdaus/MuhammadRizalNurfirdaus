@@ -33,8 +33,9 @@ Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
 
 ## 📊 Statistik GitHub Saya
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=crawasy-zall&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crawasy-zall&layout=compact&theme=tokyonight" height="165"/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=radical)
+
 </p>
 
 ---
