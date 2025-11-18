@@ -20,6 +20,8 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizalnurfirdaus@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rizal.nurfirdaus.7?mibextid=rS40aB7S9Ucbxw6v)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM)
+[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NurfirdausRizal)
+
 
 ---
 
