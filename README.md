@@ -16,11 +16,35 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 ---
 
 ### 📫 Cara Menghubungi Saya
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizalnurfirdaus@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rizal.nurfirdaus.7?mibextid=rS40aB7S9Ucbxw6v)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM)
-[![X (Twitter)](https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/NurfirdausRizal)
+
+<p align="left">
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:muhammadrizalnurfirdaus@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/rizal.nurfirdaus.7?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://twitter.com/NurfirdausRizal" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+</p>
 
 
 ---
@@ -28,29 +52,42 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 ## 🛠️ Teknologi & Alat yang Saya Gunakan
 Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="60" style="border-radius:50%;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" style="border-radius:50%;" />
+
+</div>
+
 
 ---
 
 ## 📊 Statistik GitHub Saya  
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
+    height="170" 
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
+    height="170" 
+  />
 
-</div>
-
----
-
-</div>
 </div>
 
 ---
