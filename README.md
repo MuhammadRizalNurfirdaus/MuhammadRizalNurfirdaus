@@ -1,8 +1,14 @@
 <!-- Banner Animasi -->
 <h1 align="center">✨ Selamat Datang di Profil Saya ✨</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C2FF&center=true&vCenter=true&width=600&lines=Halo%2C+Saya+Muhammad+Rizal+Nurfirdaus!;Seorang+Mahasiswa+Teknik+Informatika;Developer+Pemula+yang+Suka+Belajar+Hal+Baru!+🚀">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Muhammad+Rizal+Nurfirdaus;Mahasiswa+Teknik+Informatika;Web+%26+Software+Developer+Pemula;Sedang+Belajar+dan+Terus+Berkembang+🚀" 
+    alt="Typing SVG"
+  />
 </p>
+
+<hr>
 
 ---
 
