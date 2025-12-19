@@ -10,8 +10,6 @@
 
 <hr>
 
----
-
 ## 👋 Tentang Saya
 Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antusias mempelajari berbagai hal baru dalam dunia **Teknik Informatika**.  
 
