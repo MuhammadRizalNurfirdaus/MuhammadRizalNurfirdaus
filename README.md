@@ -56,12 +56,8 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 ## 🛠️ Teknologi & Alat yang Saya Gunakan
 Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
 
-## 🛠️ Teknologi & Alat yang Saya Gunakan
-Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
-
 <div align="center">
 
-  <!-- Bahasa Pemrograman -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" />
@@ -73,10 +69,11 @@ Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" />
 
-  <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/archlinux.svg" height="55" />
+  <!-- Arch Linux (warna asli) -->
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="55" />
 
 </div>
+
 
 
 
