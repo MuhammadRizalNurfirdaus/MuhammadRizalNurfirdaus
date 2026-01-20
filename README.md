@@ -1,25 +1,25 @@
-<!-- Banner Animasi -->
-<h1 align="center">✨ Selamat Datang di Profil Saya ✨</h1>
+<!-- Animated Banner -->
+<h1 align="center">✨ Welcome to My Profile ✨</h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Halo%2C+Saya+Muhammad+Rizal+Nurfirdaus;Mahasiswa+Teknik+Informatika;Web+%26+Software+Developer+Pemula;Sedang+Belajar+dan+Terus+Berkembang+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Muhammad+Rizal+Nurfirdaus;Informatics+Engineering+Student;Beginner+Web+%26+Software+Developer;Currently+Learning+and+Continuously+Growing+🚀" 
     alt="Typing SVG"
   />
 </p>
 
 <hr>
 
-## 👋 Tentang Saya
-Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antusias mempelajari berbagai hal baru dalam dunia **Teknik Informatika**.  
+## 👋 About Me
+Hello! I’m **Muhammad Rizal Nurfirdaus**, a **beginner developer** who is passionate about learning new things in the world of **Informatics Engineering**.  
 
-- 🌱 Saat ini saya sedang mendalami **pengembangan web** dan **pemrograman tingkat lanjut**.  
-- 💡 Saya suka mencoba teknologi baru dan membuat proyek sederhana untuk melatih logika serta kreativitas.  
-- 🎯 Tujuan saya adalah menjadi **Full-Stack Developer** yang handal dan berkontribusi di dunia teknologi.  
+- 🌱 I’m currently focusing on **web development** and **advanced programming concepts**.  
+- 💡 I enjoy exploring new technologies and building simple projects to sharpen my logic and creativity.  
+- 🎯 My goal is to become a **skilled Full-Stack Developer** and contribute to the tech industry.  
 
 ---
 
-### 📫 Cara Menghubungi Saya
+### 📫 How to Reach Me
 
 <p align="left">
 
@@ -50,11 +50,10 @@ Halo! Saya **Muhammad Rizal Nurfirdaus**, seorang **developer pemula** yang antu
 
 </p>
 
-
 ---
 
-## 🛠️ Teknologi & Alat yang Saya Gunakan
-Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
+## 🛠️ Technologies & Tools I Use
+Here are the programming languages and technologies I frequently work with:
 
 <div align="center">
 
@@ -69,17 +68,14 @@ Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" />
 
-  <!-- Arch Linux (warna asli) -->
+  <!-- Arch Linux -->
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="55" />
 
 </div>
 
-
-
-
 ---
 
-## 📊 Statistik GitHub Saya  
+## 📊 My GitHub Statistics  
 <div align="center">
 
   <img 
@@ -97,4 +93,4 @@ Berikut bahasa pemrograman dan teknologi yang sering saya gunakan:
 ---
 
 ## 🌈 Fun Fact
-> "Setiap baris kode yang saya tulis adalah langkah kecil menuju impian besar saya 💻✨"
+> "Every line of code I write is a small step toward my big dreams 💻✨"
