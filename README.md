@@ -8,13 +8,9 @@
   />
 </p>
 
-<!-- Naruto Aesthetic Animation -->
+<!-- Naruto Hero Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNlam14cWJ6b2xyaTd3eGVnN3J5Y28zend3MXZhanRqa3Z1b2xhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/vAa9MR9bnbWrm/giphy.gif" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYybzFqcXc4Y3c0NWU4anN0NGg2MzVkb25iMDdhdDNwa3J2d3Z5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWPCODQzgmDRu/giphy.gif" width="700"/>
+  <img src="https://media.giphy.com/media/vAa9MR9bnbWrm/giphy.gif" width="100%" />
 </p>
 
 <hr>
@@ -44,7 +40,7 @@ Hello! I’m **Muhammad Rizal Nurfirdaus**, a **beginner developer** who is pass
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <a href="https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM" target="_blank">
+  <a href="https://youtube.com/@muhammadrizalnurfirdaus164" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
@@ -93,6 +89,15 @@ Here are the programming languages and technologies I frequently work with:
 </div>
 
 ---
+
+<!-- Closing Naruto Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGhpc3QxcDBmd2E4OXUzbTI1NHBzaHowemI1YzdzYjM3ZWxkaXozNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gYMJrE0aj6UyA/giphy.gif" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/pWPCODQzgmDRu/giphy.gif" width="500"/>
+</p>
 
 ## 🌈 Fun Fact
 > "Every line of code I write is a small step toward my big dreams 💻✨"  
