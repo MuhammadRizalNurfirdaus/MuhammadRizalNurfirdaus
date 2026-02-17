@@ -8,6 +8,15 @@
   />
 </p>
 
+<!-- Naruto Aesthetic Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3anNlam14cWJ6b2xyaTd3eGVnN3J5Y28zend3MXZhanRqa3Z1b2xhNiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/vAa9MR9bnbWrm/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnYybzFqcXc4Y3c0NWU4anN0NGg2MzVkb25iMDdhdDNwa3J2d3Z5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWPCODQzgmDRu/giphy.gif" width="1000"/>
+</p>
+
 <hr>
 
 ## 👋 About Me
@@ -23,27 +32,22 @@ Hello! I’m **Muhammad Rizal Nurfirdaus**, a **beginner developer** who is pass
 
 <p align="left">
 
-  <!-- Instagram -->
   <a href="https://www.instagram.com/crawasy_zall?igsh=MXZjMnRuYnJhczNxbg==" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
-  <!-- Email -->
   <a href="mailto:muhammadrizalnurfirdaus@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- Facebook -->
   <a href="https://www.facebook.com/rizal.nurfirdaus.7?mibextid=rS40aB7S9Ucbxw6v" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
-  <!-- YouTube -->
   <a href="https://youtube.com/@muhammadrizalnurfirdaus164?si=6MCoghjOveqg91gM" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
-  <!-- X / Twitter -->
   <a href="https://twitter.com/NurfirdausRizal" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
@@ -67,8 +71,6 @@ Here are the programming languages and technologies I frequently work with:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" />
-
-  <!-- Arch Linux -->
   <img src="https://cdn.simpleicons.org/archlinux/1793D1" height="55" />
 
 </div>
@@ -93,4 +95,5 @@ Here are the programming languages and technologies I frequently work with:
 ---
 
 ## 🌈 Fun Fact
-> "Every line of code I write is a small step toward my big dreams 💻✨"
+> "Every line of code I write is a small step toward my big dreams 💻✨"  
+> **"Believe it! Dattebayo! 🍥🔥"**
