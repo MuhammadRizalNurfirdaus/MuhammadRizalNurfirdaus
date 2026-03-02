@@ -77,13 +77,13 @@ Here are the programming languages and technologies I frequently work with:
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" 
+    height="170"
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" 
+    height="170"
   />
 
 </div>
