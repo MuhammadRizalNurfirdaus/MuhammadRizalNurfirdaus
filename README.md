@@ -73,17 +73,32 @@ Here are the programming languages and technologies I frequently work with:
 
 ---
 
-## 📊 My GitHub Statistics  
+## 📊 GitHub Statistics
+
 <div align="center">
 
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
     height="170"
   />
 
+  <!-- Top Languages -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
     height="170"
+  />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+  <img 
+    src="https://streak-stats.demolab.com?user=MuhammadRizalNurfirdaus&theme=tokyonight&hide_border=true" 
   />
 
 </div>
@@ -102,3 +117,6 @@ Here are the programming languages and technologies I frequently work with:
 ## 🌈 Fun Fact
 > "Every line of code I write is a small step toward my big dreams 💻✨"  
 > **"Believe it! Dattebayo! 🍥🔥"**
+
+  > "Hard work is worthless for those that don’t believe in themselves."_  
+  > **Uzumaki Naruto 🍥🔥**
