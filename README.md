@@ -20,7 +20,7 @@ Hello! I’m **Muhammad Rizal Nurfirdaus**, a **beginner developer** who is pass
 
 - 🌱 I’m currently focusing on **web development** and **advanced programming concepts**.  
 - 💡 I enjoy exploring new technologies and building simple projects to sharpen my logic and creativity.  
-- 🎯 My goal is to become a **skilled Full-Stack Developer** and contribute to the tech industry.  
+- 🎯 My goal is to work as a **Backend Web Developer** and build scalable and efficient systems for real-world applications.  
 
 ---
 
@@ -77,13 +77,11 @@ Here are the programming languages and technologies I frequently work with:
 
 <div align="center">
 
-  <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MuhammadRizalNurfirdaus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
     height="170"
   />
 
-  <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadRizalNurfirdaus&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
     height="170"
@@ -105,7 +103,6 @@ Here are the programming languages and technologies I frequently work with:
 
 ---
 
-<!-- Closing Naruto Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGhpc3QxcDBmd2E4OXUzbTI1NHBzaHowemI1YzdzYjM3ZWxkaXozNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gYMJrE0aj6UyA/giphy.gif" width="500"/>
 </p>
@@ -118,5 +115,5 @@ Here are the programming languages and technologies I frequently work with:
 > "Every line of code I write is a small step toward my big dreams 💻✨"  
 > **"Believe it! Dattebayo! 🍥🔥"**
 
-  > "Hard work is worthless for those that don’t believe in themselves."_  
-  > **Uzumaki Naruto 🍥🔥**
+> "Hard work is worthless for those that don’t believe in themselves."_  
+> **Uzumaki Naruto 🍥🔥**
