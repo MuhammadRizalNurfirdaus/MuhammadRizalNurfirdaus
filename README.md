@@ -103,6 +103,16 @@ Here are the programming languages and technologies I frequently work with:
 
 ---
 
+# 🎵 Spotify Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ddyopqri777ypxq2yzrf5ouh4y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false">
+  </a>
+</p>
+
+---
+
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGhpc3QxcDBmd2E4OXUzbTI1NHBzaHowemI1YzdzYjM3ZWxkaXozNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gYMJrE0aj6UyA/giphy.gif" width="500"/>
 </p>
