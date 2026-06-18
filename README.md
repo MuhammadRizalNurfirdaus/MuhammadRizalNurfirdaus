@@ -103,6 +103,7 @@ Here are the programming languages and technologies I frequently work with:
 
 ---
 
+
 # 🎵 Spotify Playing
 
 <p align="center">
@@ -112,6 +113,7 @@ Here are the programming languages and technologies I frequently work with:
 </p>
 
 ---
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGhpc3QxcDBmd2E4OXUzbTI1NHBzaHowemI1YzdzYjM3ZWxkaXozNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gYMJrE0aj6UyA/giphy.gif" width="500"/>
