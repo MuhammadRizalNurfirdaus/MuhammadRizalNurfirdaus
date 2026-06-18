@@ -107,7 +107,7 @@ Here are the programming languages and technologies I frequently work with:
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ddyopqri777ypxq2yzrf5ouh4y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31gcsx4nunxl64uqm5hywv3gntli&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false">
   </a>
 </p>
 
